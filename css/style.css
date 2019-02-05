@@ -26,6 +26,11 @@ font-weight: 300;
 font-size: 1rem;
 line-height: 1.65;
 }
+
+p, h1, h2, h3, h4, h5{
+margin: 20px;
+}
+
 /* ELEMENTS */
 
 #landing{
@@ -42,8 +47,7 @@ padding-top: 2px;
 background-color: #333333;
 color: white;
 font-size: 11px;
-letter-spacing: 3px;
-padding:5px; 
+letter-spacing: 2px;
 text-transform: uppercase;
 }
 
@@ -52,8 +56,11 @@ padding: 10px;
 }
 
 #divider{
-background-color: #007bff;            
-height: 34%;
+background-color: #532e8b;            
+color: white;
+padding-top: 40px;
+padding-bottom: 40px; 
+height: 50%;
 }
 
 #section_html, #section_css, #section_ps, #section_pr, #section_ai{
@@ -75,10 +82,10 @@ margin-bottom: 25px;
 
 
 /*** start of Eric's CSS ***/
-
+/***
 .signature{
     font-family: 'Josefin Sans', sans-serif;
-}
+}***/
 th{
     text-align:center;
     background-color: #e6e6e6;
