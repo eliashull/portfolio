@@ -63,6 +63,14 @@ padding-bottom: 40px;
 height: 50%;
 }
 
+#footer{
+background-color: #333333;            
+color: white;
+padding-top: 60px;
+padding-bottom: 60px; 
+height: 60%;
+}
+
 #section_html, #section_css, #section_ps, #section_pr, #section_ai{
 height: 400px;
 font-size: 2em;
