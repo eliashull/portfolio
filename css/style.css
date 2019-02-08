@@ -40,7 +40,7 @@ height: 100vh;
 #header{
 background-color: #532e8b;
 color: white;
-padding-top: 2px; 
+padding: 30px;
 }
 
 #navigation{
@@ -48,7 +48,7 @@ background-color: #333333;
 color: white;
 font-size: 11px;
 letter-spacing: 2px;
-text-transform: uppercase;
+/***text-transform: uppercase;***/
 }
 
 #welcome{
