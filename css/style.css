@@ -31,6 +31,12 @@ p, h1, h2, h3, h4, h5{
 margin: 20px;
 }
 
+/* POSITIONING */
+
+h1.signature {
+margin: 5px;
+}
+
 /* ELEMENTS */
 
 #landing{
@@ -73,9 +79,9 @@ height: 200px;
 }
 
 
-/*** start of Eric's CSS ***/
-/***
-.signature{
-    font-family: 'Josefin Sans', sans-serif;
-}***/
+
+#contact_element_2{
+	padding:20px;
+}
+
 
