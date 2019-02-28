@@ -7,7 +7,7 @@ background: #e6e6e6;
 /* TEXT */
 
 html{
-font-size: 10pt;
+font-size: 11pt;
 scroll-behavior: smooth;
 }
 
@@ -22,11 +22,12 @@ color: inherit;
 
 a:hover{
 color: #ac75ff;
+text-decoration: none;
 }
 
 body, input, select, textarea {
 color: #333333;
-font-family: "Source Sans Pro", sans-serif;
+font-family: "Montserrat", sans-serif;
 font-weight: 300;
 font-size: 1rem;
 line-height: 1.65;
@@ -60,7 +61,7 @@ background-color: #333333;
 color: white;
 font-size: 11px;
 letter-spacing: 2px;
-/***text-transform: uppercase;***/
+text-transform: uppercase;
 }
 
 #welcome{
