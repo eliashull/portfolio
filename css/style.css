@@ -7,7 +7,7 @@ background: #e6e6e6;
 /* TEXT */
 
 html{
-font-size: 11pt;
+font-size: 10pt;
 scroll-behavior: smooth;
 }
 
@@ -30,11 +30,12 @@ color: #333333;
 font-family: "Montserrat", sans-serif;
 font-weight: 300;
 font-size: 1rem;
-line-height: 1.65;
+line-height: 1.75;
 }
 
 p, h1, h2, h3, h4, h5{
-margin: 20px;
+margin: 25px;
+letter-spacing: 1px;
 }
 
 /* POSITIONING */
@@ -53,13 +54,12 @@ height: 100vh;
 background-color: #532e8b;
 color: white;
 height: 50%;
-/*padding: 30px;*/
 }
 
 #navigation{
 background-color: #333333;
 color: white;
-font-size: 11px;
+font-size: 10px;
 letter-spacing: 2px;
 text-transform: uppercase;
 }
@@ -71,20 +71,19 @@ padding: 10px;
 #divider{
 background-color: #532e8b;            
 color: white;
-/*padding-top: 40px;
-padding-bottom: 40px; */
-height: 200px;
+height: 240px;
 }
 
 #footer{
 background-color: #333333;            
 color: white;
-/* padding-top: 60px;
-padding-bottom: 60px; */
 height: 200%;
 }
 
-
+#cv_icon{
+    font-size: 400%;
+    margin:20px;
+}
 
 #contact_element_2{
 	padding:20px;
