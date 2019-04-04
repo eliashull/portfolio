@@ -80,6 +80,15 @@ color: white;
 height: 200%;
 }
 
+#vp_videos{
+    padding-top: 15px;
+}
+
+.carousel-item{
+    width:500px;
+    height: 300px;
+}
+
 #cv_icon{
     font-size: 400%;
     margin:20px;
